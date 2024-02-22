@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, I'm Malcoln and Welcome to my Profile
+
+- I'm currently studying game desing and systems development. Both colleges ends in july/2024
+
+I'm from brazil, looking for some junior jobs to get started in the industry.
 
 <!--
 **MalcolnLMR/MalcolnLMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
