@@ -1,6 +1,6 @@
 ### Hello, I'm Malcoln and Welcome to my Profile
 
-I'm currently studying game desing and development analyst. Both colleges ends in july/2024
+I've done studying game desing and development analyst. Both colleges ended in july/2024
 I'm from brazil, looking for some junior jobs to get started in the industry.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malcolnlmr&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
