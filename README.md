@@ -1,33 +1,52 @@
-### Hello, I'm Malcoln and Welcome to my Profile
+# Hello, I'm Malcoln and Welcome to my Profile
 
-I've done studying game desing and development analyst. Both colleges ended in july/2024
-I'm from brazil, looking for some junior jobs to get started in the industry.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malcolnlmr&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malcolnlmr)](https://github.com/anuraghazra/github-readme-stats) TOP LANGUAGES -->
+## About me
+- 🎓 **Education:** Finished an associate degree in Game Development at 2024, and finished another associate degree in System Development at 2024
+- 🌱 **Learning:** Kotlin (with jetpack compose) and Android Studio
 
+##
 <div> 
-  <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> DISCORD -->
-  <a href = "mailto:malcolnlucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/malcoln-lucas-001065185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malcolnlmr&theme=calm_pink&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcolnlmr&layout=compact&langs_count=16&theme=calm_pink"/>  
 </div>
+
+##
+<div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malcolnlmr&theme=date_night&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcolnlmr&layout=compact&langs_count=16&theme=date_night "/>
+</div>
+
+##
+<div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malcolnlmr&theme=dracula&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcolnlmr&layout=compact&langs_count=16&theme=dracula "/>
+</div>
+<!--
+  <a href="https://discord.com/channels/@me/218859420258533376" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+-->
+<div> 
+  <a href = "mailto:malcolnlucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/MalcolnLucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+##
+<div style="display: inline_block"><br>  
+  <img align="center" alt="Malcoln-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Malcoln-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+  <img align="center" alt="Malcoln-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Malcoln-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Malcoln-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+  <img align="center" alt="Malcoln-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Malcoln-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg">
+  <img align="center" alt="Malcoln-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg">
+  <img align="center" alt="Malcoln-SSH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg">
+</div>
+
 
 <!--
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
-**MalcolnLMR/MalcolnLMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
