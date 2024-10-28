@@ -2,26 +2,15 @@
 
 
 ## About me
-- 🎓 **Education:** Finished an associate degree in Game Development at 2024, and finished another associate degree in System Development at 2024
-- 🌱 **Learning:** Kotlin (with jetpack compose) and Android Studio
-
-##
-<div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malcolnlmr&theme=calm_pink&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcolnlmr&layout=compact&langs_count=16&theme=calm_pink"/>  
-</div>
-
-##
-<div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malcolnlmr&theme=date_night&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcolnlmr&layout=compact&langs_count=16&theme=date_night "/>
-</div>
+- 🎓 **Education:** Finished an associate degree in Game Development at 2024, and finished another associate degree in System Development at 2024;
+- 🌱 **Learning:** Kotlin (with jetpack compose) and Android Studio.
 
 ##
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malcolnlmr&theme=dracula&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcolnlmr&layout=compact&langs_count=16&theme=dracula "/>
 </div>
+
 <!--
   <a href="https://discord.com/channels/@me/218859420258533376" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 -->
@@ -44,15 +33,3 @@
   <img align="center" alt="Malcoln-SSH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg">
 </div>
 
-
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
