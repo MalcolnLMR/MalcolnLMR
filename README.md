@@ -2,8 +2,8 @@
 
 
 ## About me
-- 🎓 **Education:** Finished an associate degree in Game Development at 2024, and finished another associate degree in System Development at 2024;
-- 🌱 **Learning:** Kotlin (with jetpack compose and LibGDX) and Android Studio.
+- 🎓 **Education:** Finished an associate degree in Game Development at 2024, finished another associate degree in System Development at 2024, and just started a cybersecurity specialization.
+- 🌱 **Learning:** Cybersecurity.
 
 ##
 <div> 
