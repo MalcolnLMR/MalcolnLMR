@@ -4,6 +4,7 @@
 ## About me
 - 🎓 **Education:** Finished an associate degree in Game Development at 2024, finished another associate degree in System Development at 2024, and just started a cybersecurity specialization.
 - 🌱 **Learning:** Cybersecurity.
+- 💻 **Character Development Arc:** Nowadays I'm on my Arch Linux arc.
 
 ##
 <div> 
