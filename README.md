@@ -23,6 +23,6 @@
 ##
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,ubuntu,java,python,androidstudio,github,vim,bash,php"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,ubuntu,arch,java,python,androidstudio,github,vim,bash,php"/>
   </a>
 </p>
