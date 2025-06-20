@@ -13,7 +13,6 @@ Learning Arch follows the steps from the Hero Journey. Starting as 'omg I dont w
 That was really fun, and now I think I've crossed the line of no going back. I need to know every single application is installed on my OS. And I'm procrastinating to put hyprland on my desktop, just bcz reconfiguring my dev environment seems boring.
 <hr>
 
-##
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malcolnlmr&theme=dracula&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcolnlmr&layout=compact&langs_count=16&theme=dracula"/>
@@ -26,8 +25,7 @@ That was really fun, and now I think I've crossed the line of no going back. I n
   <a href = "mailto:malcolnlucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/MalcolnLucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-##
+<hr>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,ubuntu,arch,java,python,androidstudio,github,vim,bash,php"/>
